@@ -1,130 +1,75 @@
 [
+{
+  "data": [
     {
-      "id": 1,
-      "company": "UTT El Refugio",
+      "comp_id": 1,
+      "comp_name": "Samsung",
       "structure": [
         {
-          "id": 1,
-          "name": "Docencia #1",
-          "icon": "https://i.imgur.com/CjZYXL2.png",
-          "status": {
-            "condition": 1,
-            "description": "ok",
-            "color": "#FF0000"
-          },
-          "zones": [
+          "stru_id": 1,
+          "stru_name": "Production Sector",
+          "stru_description": "ok",
+          "stru_icon": "http://mywebsite.com/icons/building.png",
+          "zone": [
             {
-              "id": 1,
-              "name": "Wall #1",
-              "floor": 1,
-              "status": {
-                "condition": 1,
-                "description": "Warning",
-                "icon": "https://i.imgur.com/DkfEwXs.png",
-                "value": 40
-              }
+              "zone_id": 1,
+              "zone_name": "Wall #1",
+              "zone_floor": 1,
+              "zone_condition": 1,
+              "zone_icon": "https://i.imgur.com/DkfEwXs.png",
+              "zone_description": "Warning",
+              "zone_time": "2021-07-15T15:42:54",
+              "zone_bend": 35000,
+              "zone_temperature": 15
             },
             {
-              "id": 2,
-              "name": "Wall #2",
-              "floor": 1,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "https://i.imgur.com/eDmqzWr.png",
-                "value": 30
-              }
+              "zone_id": 2,
+              "zone_name": "Wall #2",
+              "zone_floor": 1,
+              "zone_condition": 0,
+              "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+              "zone_description": "Ok",
+              "zone_time": "2021-07-15T15:42:54",
+              "zone_bend": 30000,
+              "zone_temperature": 15
             },
             {
-              "id": 3,
-              "name": "Wall #3",
-              "floor": 1,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "https://i.imgur.com/eDmqzWr.png",
-                "value": 30
-              }
+              "zone_id": 3,
+              "zone_name": "Wall #3",
+              "zone_floor": 1,
+              "zone_condition": 0,
+              "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+              "zone_description": "Ok",
+              "zone_time": "2021-07-15T15:42:54",
+              "zone_bend": 30000,
+              "zone_temperature": 15
             },
             {
-              "id": 4,
-              "name": "Wall #4",
-              "floor": 1,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "https://i.imgur.com/eDmqzWr.png",
-                "value": 30
-              }
+              "zone_id": 4,
+              "zone_name": "Wall #4",
+              "zone_floor": 1,
+              "zone_condition": 0,
+              "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+              "zone_description": "Ok",
+              "zone_time": "2021-07-15T15:42:54",
+              "zone_bend": 30000,
+              "zone_temperature": 15
             },
             {
-              "id": 5,
-              "name": "Ceiling",
-              "floor": 1,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "https://i.imgur.com/eDmqzWr.png",
-                "value": 30
-              }
-            },
-            {
-              "id": 6,
-              "name": "Wall #1",
-              "floor": 2,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "https://i.imgur.com/eDmqzWr.png",
-                "value": 30
-              }
-            },
-            {
-              "id": 7,
-              "name": "Wall #2",
-              "floor": 2,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "https://i.imgur.com/eDmqzWr.png",
-                "value": 30
-              }
-            },
-            {
-              "id": 8,
-              "name": "Wall #3",
-              "floor": 2,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "https://i.imgur.com/eDmqzWr.png",
-                "value": 30
-              }
-            },
-            {
-              "id": 9,
-              "name": "Wall #4",
-              "floor": 2,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "https://i.imgur.com/eDmqzWr.png",
-                "value": 30
-              }
-            },
-            {
-              "id": 10,
-              "name": "Ceiling",
-              "floor": 2,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "https://i.imgur.com/eDmqzWr.png",
-                "value": 30
-              }
+              "zone_id": 5,
+              "zone_name": "Ceiling",
+              "zone_floor": 1,
+              "zone_condition": 0,
+              "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+              "zone_description": "Ok",
+              "zone_time": "2021-07-15T15:42:54",
+              "zone_bend": 30000,
+              "zone_temperature": 15
             }
           ]
         }
       ]
     }
   ]
+}
+]
