@@ -1,4 +1,4 @@
-
+[
     {
       "id": 1,
       "company": "UTT El Refugio",
@@ -120,101 +120,6 @@
                 "condition": 0,
                 "description": "Ok",
                 "icon": "https://i.imgur.com/eDmqzWr.png",
-                "value": 30
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "company": "Samsung",
-      "structure": [
-        {
-          "id": 1,
-          "name": "Department #1",
-          "icon": "http://mywebsite.com/icons/building.png",
-          "status": {
-            "condition": 1,
-            "description": "Warning",
-            "color": "#FF0000"
-          },
-          "zones": [
-            {
-              "id": 1,
-              "name": "Wall #1",
-              "floor": 1,
-              "status": {
-                "condition": 1,
-                "description": "Warning",
-                "icon": "http://mywebsite.com/icons/warning.png",
-                "value": 40
-              }
-            },
-            {
-              "id": 2,
-              "name": "Wall #2",
-              "floor": 1,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "http://mywebsite.com/icons/ok.png",
-                "value": 30
-              }
-            },
-            {
-              "id": 3,
-              "name": "Wall #3",
-              "floor": 1,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "http://mywebsite.com/icons/ok.png",
-                "value": 30
-              }
-            },
-            {
-              "id": 4,
-              "name": "Wall #4",
-              "floor": 1,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "http://mywebsite.com/icons/ok.png",
-                "value": 30
-              }
-            },
-            {
-              "id": 5,
-              "name": "Pillar #1",
-              "floor": 1,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "http:/mywebsite.com/icons/ok.png",
-                "value": 30
-              }
-            },
-            {
-              "id": 6,
-              "name": "Pillar #2",
-              "floor": 1,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "http://mywebsite.com/icons/ok.png",
-                "value": 30
-              }
-            },
-            {
-              "id": 7,
-              "name": "Ceiling",
-              "floor": 1,
-              "status": {
-                "condition": 0,
-                "description": "Ok",
-                "icon": "http://mywebsite.com/icons/ok.png",
                 "value": 30
               }
             }
