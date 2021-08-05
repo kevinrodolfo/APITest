@@ -15,7 +15,7 @@
               "zone_id": 1,
               "zone_name": "Wall #1",
               "zone_floor": 1,
-              "zone_condition": 1,
+              "zone_condition": "card-header-success",
               "zone_icon": "https://i.imgur.com/DkfEwXs.png",
               "zone_description": "Warning",
               "zone_time": "2021-07-15T15:42:54",
