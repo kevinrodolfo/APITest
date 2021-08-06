@@ -8,7 +8,7 @@
         {
           "stru_id": 1,
           "stru_name": "Production Sector",
-          "stru_description": "ok",
+          "stru_description": "Ok",
           "stru_icon": "http://mywebsite.com/icons/building.png",
           "zone": [
             {
