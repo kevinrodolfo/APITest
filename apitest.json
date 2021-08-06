@@ -28,7 +28,7 @@
               "zone_floor": 1,
               "zone_condition": 0,
               "zone_icon": "https://i.imgur.com/eDmqzWr.png",
-              "zone_description": "Ok",
+              "zone_description": "Warning",
               "zone_time": "2021-07-15T15:42:54",
               "zone_bend": 30000,
               "zone_temperature": 15
