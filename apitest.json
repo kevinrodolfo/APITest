@@ -1,75 +1,126 @@
 [
-{
-  "data": [
-    {
-      "comp_id": 1,
-      "comp_name": "Samsung",
-      "structure": [
-        {
-          "stru_id": 1,
-          "stru_name": "Production Sector",
-          "stru_description": "PRETTY",
-          "stru_icon": "http://mywebsite.com/icons/building.png",
-          "zone": [
-            {
-              "zone_id": 1,
-              "zone_name": "Wall #1",
-              "zone_floor": 1,
-              "zone_condition": "card-header-warning",
-              "zone_icon": "https://i.imgur.com/DkfEwXs.png",
-              "zone_description": "Ok",
-              "zone_time": "2021-07-15T15:42:54",
-              "zone_bend": 35000,
-              "zone_temperature": 15
-            },
-            {
-              "zone_id": 2,
-              "zone_name": "Wall #2",
-              "zone_floor": 1,
-              "zone_condition": 0,
-              "zone_icon": "https://i.imgur.com/eDmqzWr.png",
-              "zone_description": "Ok",
-              "zone_time": "2021-07-15T15:42:54",
-              "zone_bend": 30000,
-              "zone_temperature": 15
-            },
-            {
-              "zone_id": 3,
-              "zone_name": "Wall #3",
-              "zone_floor": 1,
-              "zone_condition": 0,
-              "zone_icon": "https://i.imgur.com/eDmqzWr.png",
-              "zone_description": "Ok",
-              "zone_time": "2021-07-15T15:42:54",
-              "zone_bend": 30000,
-              "zone_temperature": 15
-            },
-            {
-              "zone_id": 4,
-              "zone_name": "Wall #4",
-              "zone_floor": 1,
-              "zone_condition": 0,
-              "zone_icon": "https://i.imgur.com/eDmqzWr.png",
-              "zone_description": "Ok",
-              "zone_time": "2021-07-15T15:42:54",
-              "zone_bend": 30000,
-              "zone_temperature": 15
-            },
-            {
-              "zone_id": 5,
-              "zone_name": "Ceiling",
-              "zone_floor": 1,
-              "zone_condition": 0,
-              "zone_icon": "https://i.imgur.com/eDmqzWr.png",
-              "zone_description": "Ok",
-              "zone_time": "2021-07-15T15:42:54",
-              "zone_bend": 30000,
-              "zone_temperature": 15
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+  {
+    "comp_id": 1,
+    "comp_name": "Samsung",
+    "structure": [
+      {
+        "stru_id": 1,
+        "stru_name": "Production Sector",
+        "stru_description": "OK",
+        "stru_icon": "http://mywebsite.com/icons/building.png",
+        "zone": [
+          {
+            "zone_id": 1,
+            "zone_name": "Wall #1",
+            "zone_floor": 1,
+            "zone_condition": 1,
+            "zone_icon": "https://i.imgur.com/DkfEwXs.png",
+            "zone_description": "Warning",
+            "zone_time": "2021-07-15T15:42:54",
+            "zone_bend": 35000.0,
+            "zone_temperature": 15
+          },
+          {
+            "zone_id": 2,
+            "zone_name": "Wall #2",
+            "zone_floor": 1,
+            "zone_condition": 0,
+            "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+            "zone_description": "Ok",
+            "zone_time": "2021-07-15T15:42:54",
+            "zone_bend": 30000.0,
+            "zone_temperature": 15
+          },
+          {
+            "zone_id": 3,
+            "zone_name": "Wall #3",
+            "zone_floor": 1,
+            "zone_condition": 0,
+            "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+            "zone_description": "Ok",
+            "zone_time": "2021-07-15T15:42:54",
+            "zone_bend": 30000.0,
+            "zone_temperature": 15
+          },
+          {
+            "zone_id": 4,
+            "zone_name": "Wall #4",
+            "zone_floor": 1,
+            "zone_condition": 0,
+            "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+            "zone_description": "Ok",
+            "zone_time": "2021-07-15T15:42:54",
+            "zone_bend": 30000.0,
+            "zone_temperature": 15
+          },
+          {
+            "zone_id": 5,
+            "zone_name": "Ceiling",
+            "zone_floor": 1,
+            "zone_condition": 0,
+            "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+            "zone_description": "Ok",
+            "zone_time": "2021-07-15T15:42:54",
+            "zone_bend": 30000.0,
+            "zone_temperature": 15
+          },
+          {
+            "zone_id": 105,
+            "zone_name": "Wall # 1",
+            "zone_floor": 1,
+            "zone_condition": 0,
+            "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+            "zone_description": "Ok",
+            "zone_time": "2021-08-09T23:06:48",
+            "zone_bend": 26666.7,
+            "zone_temperature": 26
+          },
+          {
+            "zone_id": 106,
+            "zone_name": "Wall # 2",
+            "zone_floor": 1,
+            "zone_condition": 0,
+            "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+            "zone_description": "Ok",
+            "zone_time": "2021-08-09T23:06:48",
+            "zone_bend": 26666.7,
+            "zone_temperature": 26
+          },
+          {
+            "zone_id": 107,
+            "zone_name": "Wall # 3",
+            "zone_floor": 1,
+            "zone_condition": 0,
+            "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+            "zone_description": "Ok",
+            "zone_time": "2021-08-09T23:06:48",
+            "zone_bend": 26666.7,
+            "zone_temperature": 26
+          },
+          {
+            "zone_id": 108,
+            "zone_name": "Wall # 4",
+            "zone_floor": 1,
+            "zone_condition": 0,
+            "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+            "zone_description": "Ok",
+            "zone_time": "2021-08-09T23:06:48",
+            "zone_bend": 26666.7,
+            "zone_temperature": 26
+          },
+          {
+            "zone_id": 109,
+            "zone_name": "Ceiling",
+            "zone_floor": 1,
+            "zone_condition": 0,
+            "zone_icon": "https://i.imgur.com/eDmqzWr.png",
+            "zone_description": "Ok",
+            "zone_time": "2021-08-09T23:06:48",
+            "zone_bend": 26666.7,
+            "zone_temperature": 26
+          }
+        ]
+      }
+    ]
+  }
 ]
