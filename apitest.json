@@ -1,9 +1,22 @@
-
-  {
-    "id": 1,
-    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-    "price": 109.95,
-    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-    "category": "men's clothing",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
-  }
+{
+ "items":
+ [
+        {
+            "titulo": "Difusión de contenidos",
+            "descripcion": "Aprende nuestra metodología para generar un plan de marketing de contenidos",
+            "imagen": "/img/social1.png"
+        }, {
+            "titulo": "La Magia de las Campañas dirigidas",
+            "descripcion": "¿Tus ventas están por el suelo?, entonces este articulo es para ti",
+            "imagen": "/img/social2.png"
+        }, {
+            "titulo": "Posicionar tu marca con contenido audiovisual",
+            "descripcion": "El objetivo de esta guía es desvelarte los secretos para el posicionamiento con videos ilustrativos",
+            "imagen": "/img/social3.png"
+        }, {
+            "titulo": "¿Como Crear un Plan de Email Marketing?",
+            "descripcion": "Descubre la importancia de capturar la información de aquellos usuarios que pueden ser tus futuros clientes",
+            "imagen": "/img/social4.png"
+        }
+ ]
+}
